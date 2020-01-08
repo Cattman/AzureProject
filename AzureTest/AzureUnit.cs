@@ -23,7 +23,7 @@ namespace AzureTest
         {
             var first = 10;
             var second = 7;
-            var diff = first - second;
+            var diff = first - second-1;
 
             var lib = new Azure();
 
